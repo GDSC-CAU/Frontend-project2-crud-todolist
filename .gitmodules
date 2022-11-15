@@ -1,3 +1,6 @@
 [submodule "준성"]
 	path = 준성
 	url = https://github.com/danpacho/gdsc-project2-crud-todolist
+[submodule "일상"]
+	path = 일상
+	url = git@github.com-main:1lsang/GDSC-Project2-ToDo-List.git
